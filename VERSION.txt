@@ -1,5 +1,6 @@
 2020-03-08
 ---
+  - added phasor rate in msec and bpm, out processing, dc offset
   - changed [tabread~] for [tabread4~]
   - added random (exp) segments
   - Pd patch ported
