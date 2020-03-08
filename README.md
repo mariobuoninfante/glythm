@@ -1,2 +1,3 @@
-# glythm
-glitch / rhythm
+# glythm -> glitch <-> rhythm
+
+Sound generator
