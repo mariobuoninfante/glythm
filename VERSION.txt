@@ -1,3 +1,7 @@
+2020-03-15
+---
+  - added amplitude clip function
+
 2020-03-08
 ---
   - added wave 'regenerate', bpm now is expressed in bars
